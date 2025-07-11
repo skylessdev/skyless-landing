@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, sans-serif;
+  background: #0c0c0c;
+  color: #f7f7f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+main {
+  max-width: 600px;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: normal;
+  margin-bottom: 1.5rem;
+}
+
+a {
+  color: #00ffff;
+  text-decoration: none;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+footer {
+  margin-top: 2rem;
+  font-size: 0.8rem;
+  color: #aaa;
+}
